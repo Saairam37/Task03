@@ -24,7 +24,7 @@ Open the game
 
 -No server or build tools required — it’s a pure frontend project.
 OR
-open:
+open: https://memorycardgame-bysaairam.netlify.app/
 
 🎮 How to Play
 -Click on any card to flip it and reveal the image.
